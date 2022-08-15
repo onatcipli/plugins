@@ -34,6 +34,7 @@ dart run ./script/tool/bin/flutter_plugin_tools.dart <args>
 Set up:
 
 ```sh
+git submodule update
 dart pub global activate flutter_plugin_tools
 ```
 
